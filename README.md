@@ -1,5 +1,6 @@
 # AIModel
 Important sites
-https://artificialanalysis.ai/
+https://www.promptingguide.ai
+
 https://artificialanalysis.ai/
 
