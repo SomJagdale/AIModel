@@ -1,5 +1,3 @@
-Somnath, I’ll be very practical and founder-centric here — not theory.
-
 Your elynt AI startup is well-positioned because you’re targeting mid-segment, non-tech companies. The mistake most AI founders make is marketing AI. Your customers don’t buy AI — they buy solved problems.
 
 Below is a clear, executable customer-acquisition playbook 👇
